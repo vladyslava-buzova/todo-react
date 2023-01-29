@@ -1,4 +1,4 @@
-giimport classNames from 'classnames';
+import classNames from 'classnames';
 import { FaRegEdit } from 'react-icons/fa';
 import React, { useState, useEffect } from 'react';
 import { Todo } from '../types/Todo';
